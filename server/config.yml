@@ -1,0 +1,26 @@
+dev:
+  mongodb:
+    primary:
+      url: cluster0.lklovc4.mongodb.net
+      username: yuna
+      password: qpRXbRnjjezQFGVx
+  express:
+    primary:
+      location: http://localhost
+      port: 3000
+  image_server:
+    primary:
+      location: http://kdt-sw-7-team09.elicecoding.com
+      port: 5000
+prod:
+  mongodb:
+    primary:
+      url:
+      port:
+  express:
+    primary:
+      port:
+  image_server:
+    primary:
+      location: http://kdt-sw-7-team09.elicecoding.com
+      port: 5000
