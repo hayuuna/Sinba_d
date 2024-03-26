@@ -4,6 +4,11 @@
 신발 판매 플랫폼을 준비했습니다.
 
 
+ <br />
+
+## 시연 영상
+https://www.youtube.com/watch?v=MkmF9oa-eLY
+
 
  <br />
  
